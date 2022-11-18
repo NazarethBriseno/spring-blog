@@ -1,0 +1,11 @@
+body {
+    background-color: rosybrown;
+}
+
+nav {
+    background-color: blue;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    align-content: center;
+}
